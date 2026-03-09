@@ -2,8 +2,6 @@
 
 Must read the [NOTE](#note) section at the bottom of this file.
 
-⭐ Star this project if you find it useful!🔗 Feel free to connect with me on LinkedIn at [shivam-27k](https://www.linkedin.com/in/shivam-27k) >\_<.
-
 ## 🧐 Overview
 
 This Python-based Email Sender Bot automates sending personalized emails to multiple recipients from a CSV file. It customizes each email with the recipient’s name, job role, and company name — and attaches a PDF resume.
@@ -145,9 +143,5 @@ Update email generation style in `config.py`:
 
 - `EMAIL_STYLE_GUIDE` for output structure/tone
 - `SENDER_PROFILE` for your background/context
-
-📸 Result Preview
-
-![Example image of the email sent](example.jpg)
 
 Happy mailing! 📨
