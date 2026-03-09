@@ -19,8 +19,8 @@ SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 
 # Sender identity
-SENDER_NAME = "Shivam Kumar"
-SENDER_EMAIL = "shivamkumar027k@gmail.com"
+SENDER_NAME = "Rahul Gupta"
+SENDER_EMAIL = "rahul.workconnect@gmail.com"
 SENDER_PASSWORD = os.getenv("SENDER_PASSWORD", "")
 
 # Files
